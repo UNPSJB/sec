@@ -13,15 +13,25 @@ Acceso a base de datos por TCP/IP
 El sistema contará con una interfaz gráfica y, principalmente, con los siguientes Módulos:
 
 ABM de Perfiles
+
 ABM de Usuarios
+
 ABM de Afiliados
+
 Alta de solicitudes de afiliación
+
 Aceptación o rechazo de solicitudes
+
 ABM de Aulas
+
 ABM de Tipos de Curso
+
 ABM de Cursos
+
 ABM de Profesores
+
 ABM de Alumnos
+
 Inscripción a Curso
 
 
