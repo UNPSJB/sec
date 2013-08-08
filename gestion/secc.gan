@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="SEC" company="SEC" webLink="http://" view-date="2013-08-08" view-index="0" gantt-divider-location="471" resource-divider-location="300" version="2.0" locale="es_ES">
+<project name="SEC" company="SEC" webLink="http://" view-date="2013-08-08" view-index="0" gantt-divider-location="471" resource-divider-location="300" version="2.0" locale="es">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nombre" width="50" order="0"/>
@@ -8,7 +8,7 @@
     </view>
     <view id="resource-table">
         <field id="0" name="Nombre" width="50" order="0"/>
-        <field id="1" name="Función" width="49" order="1"/>
+        <field id="1" name="Función" width="50" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -46,6 +46,7 @@
         <task id="5" name="Diseño" color="#8cb6ce" meeting="false" start="2013-08-08" duration="1" complete="0" expand="true"/>
         <task id="6" name="Implementación" color="#8cb6ce" meeting="false" start="2013-08-08" duration="1" complete="0" expand="true"/>
         <task id="7" name="Pruebas" color="#8cb6ce" meeting="false" start="2013-08-08" duration="1" complete="0" expand="true"/>
+        <task id="13" name="Presentación del Trabajo" color="#8cb6ce" meeting="false" start="2013-08-08" duration="1" complete="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Noelia Lefipán" function="Default:0" contacts="" phone=""/>
